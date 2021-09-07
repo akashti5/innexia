@@ -351,7 +351,7 @@ def innexia_about_callback(update, context):
     query = update.callback_query
     if query.data == "innexia_":
         query.message.edit_text(
-            text=""" 𝗜𝗡𝗡𝗘𝗫𝗜𝗔 - A bot to manage your groups with additional features!
+            text=""" 𝐒ᴜᴢᴜɴᴇ ዘᴏʀɪᴋɪᴛᴀ - A bot to manage your groups with additional features!
             \nHere's the basic help regarding use of Innexia.
             
             \nAlmost all modules usage defined in the help menu, checkout by sending `/help`
@@ -362,10 +362,10 @@ def innexia_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Bᴜɢ'ꜱ", url="t.me/SiderzChat"
+                            text="Bᴜɢ'ꜱ", url="https://t.me/Suzune_Support"
                         ),
                         InlineKeyboardButton(
-                            text="Bᴏᴛ Lɪꜱᴛ", url="t.me/SiderzBot/11"
+                            text="Bᴏᴛ Lɪꜱᴛ", url="https://t.me/Suzune_Support"
                         ),
                     ],
                     [InlineKeyboardButton(text="Back", callback_data="innexia_back")],
@@ -444,7 +444,7 @@ def innexia_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/Kawaki_Land_106"),
+                    InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/Suzune_Support"),
                     InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇꜱ", url="https://t.me/AyanokojiOp"),
                  ],
                  [
@@ -546,7 +546,7 @@ def get_help(update: Update, context: CallbackContext):
                     [
                         InlineKeyboardButton(
                             text="Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 📢 ",
-                            url="https://t.me/{}".format(SUPPORT_CHAT),
+                            url="https://t.me/Suzune_Support,
                         )
                     ],
                 ]
