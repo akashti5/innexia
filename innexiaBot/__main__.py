@@ -74,12 +74,12 @@ def get_readable_time(seconds: int) -> str:
 
 INNEXIA_IMG = "https://telegra.ph/file/0116dd931b2db801a7a76.jpg"
 
-PM_START_TEXT = """
-Hello everyone this is suzune this side.
-As you know that my dream is to be in class A so in telegram class A is to be the best bot.
-So be my ally and help me to conquer my goal.
-My Best ally ➪ ⏤͟͞★𝐀𝐘𝐀𝐍𝐎𝐊𝐎𝐉𝐈 ꗄ➺[.](https://telegra.ph/file/d6e8a80819378b1b1bae0.jpg)
-"""
+PM_START="""
+𝐇𝐞𝐥𝐥𝐨 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐭𝐡𝐢𝐬 𝐢𝐬 𝐬𝐮𝐳𝐮𝐧𝐞 𝐭𝐡𝐢𝐬 𝐬𝐢𝐝𝐞. 𝐀𝐬 𝐲𝐨𝐮 𝐤𝐧𝐨𝐰 𝐭𝐡𝐚𝐭 𝐦𝐲 𝐝𝐫𝐞𝐚𝐦 𝐢𝐬 𝐭𝐨 𝐛𝐞 𝐢𝐧 𝐜𝐥𝐚𝐬𝐬 𝐀 𝐬𝐨 𝐢𝐧 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐜𝐥𝐚𝐬𝐬 𝐀 𝐢𝐬 𝐭𝐨 𝐛𝐞 𝐭𝐡𝐞 𝐛𝐞𝐬𝐭 𝐛𝐨𝐭.
+
+𝐒𝐨 𝐛𝐞 𝐦𝐲 𝐚𝐥𝐥𝐲 𝐚𝐧𝐝 𝐡𝐞𝐥𝐩 𝐦𝐞 𝐭𝐨 𝐜𝐨𝐧𝐪𝐮𝐞𝐫 𝐦𝐲 𝐠𝐨𝐚𝐥. 𝐌𝐲 𝐁𝐞𝐬𝐭 𝐚𝐥𝐥𝐲 ➪ ⏤‌★𝐀𝐘𝐀𝐍𝐎𝐊𝐎𝐉𝐈 ꗄ➺.
+
+𝐏𝐫𝐞𝐬𝐬 /help 𝐓𝐨 𝐒𝐞𝐞 𝐀𝐥𝐥 𝐌𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐋𝐢𝐬𝐭[.](https://telegra.ph/file/d2a90443673fb2872dd6c.jpg)"""
 
 buttons = [
     [
