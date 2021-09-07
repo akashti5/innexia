@@ -546,7 +546,7 @@ def get_help(update: Update, context: CallbackContext):
                     [
                         InlineKeyboardButton(
                             text="Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 📢 ",
-                            url="https://t.me/Suzune_Support,
+                            url="https://t.me/{}".format(SUPPORT_CHAT),
                         )
                     ],
                 ]
