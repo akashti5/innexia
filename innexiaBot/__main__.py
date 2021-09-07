@@ -78,8 +78,7 @@ PM_START_TEXT = """
 Hello everyone this is suzune this side.
 As you know that my dream is to be in class A so in telegram class A is to be the best bot.
 So be my ally and help me to conquer my goal.
-My Best ally ➪ [⏤͟͞★𝐀𝐘𝐀𝐍𝐎𝐊𝐎𝐉𝐈 ꗄ➺](https://t.me/SimpleAsFuckAyanokojiOp)
-Made With Love[.](https://telegra.ph/file/d6e8a80819378b1b1bae0.jpg)
+My Best ally ➪ ⏤͟͞★𝐀𝐘𝐀𝐍𝐎𝐊𝐎𝐉𝐈 ꗄ➺[.](https://telegra.ph/file/d6e8a80819378b1b1bae0.jpg)
 """
 
 buttons = [
