@@ -214,7 +214,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_photo(
-            INNEXIA_IMG, caption= "Hey I am Alive /n Ready manage your grp 😊\n<b>Haven't slept since:</b> <code>{}</code>".format(
+            INNEXIA_IMG, caption= "💞 Hey I am Alive Ready manage your grp 😊\n<b>Haven't slept since:</b> <code>{}</code>".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
