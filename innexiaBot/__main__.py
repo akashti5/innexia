@@ -87,7 +87,7 @@ buttons = [
             text="➕ᴀᴅᴅ 𝐒ᴜᴢᴜɴᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕", url="t.me/Suzune_Superbot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/Kawaki_Land_106"),
+        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/Suzune_Support"),
         InlineKeyboardButton(
             text="ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/AyanokojiOp"
         ),
