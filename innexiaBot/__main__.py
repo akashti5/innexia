@@ -99,6 +99,8 @@ buttons = [
         ),
     ],
     [
+        InlineKeyboardButton(text="𝙰𝙱𝙾𝚄𝚃", callback_data="innexia_"),
+    ],
 ]
 
 HELP_STRINGS = """
