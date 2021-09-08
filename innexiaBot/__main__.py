@@ -90,10 +90,9 @@ buttons = [
         InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/Suzune_Support"),
         InlineKeyboardButton(
             text="ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/SuzuneSuperbot"),
-        ),
     ],
     [
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="http://t.me/SimpleAsFuckAyanokojiOp"),
+        InlineKeyboardButton(text="𝙷𝚎𝚕𝚙 & 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜", callback_data="innexia_"),
     ],
 ]
 
