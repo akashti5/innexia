@@ -89,7 +89,7 @@ buttons = [
     [
         InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/Suzune_Support"),
         InlineKeyboardButton(
-            text="ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/SuzuneSuperbot"
+            text="ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/SuzuneSuperbot"),
         ),
     ],
     [
