@@ -99,7 +99,7 @@ buttons = [
         ),
     ],
     [
-
+]
 
 HELP_STRINGS = """
 **𝐒ᴜᴢᴜɴᴇ ዘᴏʀɪᴋɪᴛᴀ Settings**
