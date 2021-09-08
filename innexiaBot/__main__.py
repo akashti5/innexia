@@ -94,12 +94,6 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="http://t.me/SimpleAsFuckAyanokojiOp"),
-        InlineKeyboardButton(
-            text="𝙷𝙴𝙻𝙿 & 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂", callback_data="help_back"),
-        ),
-    ],
-    [
-        InlineKeyboardButton(text="𝙰𝙱𝙾𝚄𝚃", callback_data="innexia_"),
     ],
 ]
 
