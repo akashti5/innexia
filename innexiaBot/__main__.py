@@ -98,7 +98,7 @@ buttons = [
             text="𝙷𝙴𝙻𝙿 & 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂", callback_data="help_back"),
         ),
     ],
-]
+    [
 
 
 HELP_STRINGS = """
