@@ -789,7 +789,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "𝐁𝐚𝐜𝐤 𝐀𝐠𝐚𝐢𝐧 𝐓𝐨 𝐌𝐚𝐧𝐚𝐠𝐞 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 💞[.](https://telegra.ph/file/1023aaeda92fafe3c81da.jpg)
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "𝐁𝐚𝐜𝐤 𝐀𝐠𝐚𝐢𝐧 𝐓𝐨 𝐌𝐚𝐧𝐚𝐠𝐞 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 💞")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
